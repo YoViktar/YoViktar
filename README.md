@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning everything 🤣
+### Future Unity developer
